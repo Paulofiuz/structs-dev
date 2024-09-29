@@ -1,0 +1,14 @@
+C:\dev\Structs\structs\bin\Debug\net8.0\structs.exe
+C:\dev\Structs\structs\bin\Debug\net8.0\structs.deps.json
+C:\dev\Structs\structs\bin\Debug\net8.0\structs.runtimeconfig.json
+C:\dev\Structs\structs\bin\Debug\net8.0\structs.dll
+C:\dev\Structs\structs\bin\Debug\net8.0\structs.pdb
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.AssemblyInfoInputs.cache
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.AssemblyInfo.cs
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.csproj.CoreCompileInputs.cache
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.dll
+C:\dev\Structs\structs\obj\Debug\net8.0\refint\structs.dll
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.pdb
+C:\dev\Structs\structs\obj\Debug\net8.0\structs.genruntimeconfig.cache
+C:\dev\Structs\structs\obj\Debug\net8.0\ref\structs.dll
